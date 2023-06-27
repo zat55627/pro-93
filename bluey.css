@@ -1,0 +1,19 @@
+body{
+    background-color: lightseagreen;
+    text-align: center;
+}
+#bluey{
+    border:10px aquamarine double;
+    border-radius: 2px;
+    background-color: coral;
+    width: 60%;
+}
+#chilli{
+    width: 88px;
+    height: 88px;
+}
+#bandit{
+    width: 150px;
+    height: 100px;
+    border-radius: 2px;
+}

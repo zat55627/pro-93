@@ -1,0 +1,25 @@
+body{
+    background-color: lightseagreen;
+    text-align: center;
+}
+#brandy{
+    border:10px aquamarine double;
+    border-radius: 2px;
+    background-color: coral;
+    width: 60%;
+}
+#grandpa{
+    border:10px aquamarine double;
+    border-radius: 2px;
+    background-color: coral;
+    width: 60%;
+}
+#chilli{
+    width: 88px;
+    height: 88px;
+}
+#judo{
+    border:10px aquamarine double;
+    border-radius: 2px;
+    background-color: coral;
+}
